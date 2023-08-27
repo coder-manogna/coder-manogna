@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @coder-manogna
+- 👋 Hi, I’m manogna
 - 👀 I’m interested in Coding,Problem sloving,Technical quizzes,Hackerearth
 - 🌱 I’m currently learning ...Python Programming,Distributed systems,Data structures
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...kondurumanogna@gmail.com
+- 📫 How to reach me ...manognakonduru@gmail.com
 
 <!---
 coder-manogna/coder-manogna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
